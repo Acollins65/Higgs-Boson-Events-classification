@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow gitignore itself
+!.gitignore
+
+# Allow the notebook you want
+!Higgs_boson_classification.ipynb
